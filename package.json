@@ -1,6 +1,6 @@
 {
   "name": "replacenonenglish",
-  "version": "0.0.2",
+  "version": "0.0.03",
   "description": "javascript library for replace non english liters",
   "main": "replaceNonEnglish.js",
   "type": "module",
