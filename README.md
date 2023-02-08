@@ -10,7 +10,7 @@ Replace Non-English is a JavaScript NPM library that provides a function to repl
 **To install Replace Non-English, simply run the following command in your terminal: :point_down:**
 
 ```
-npm install replace-non-english
+npm i --save-dev replacenonenglish
 ```
 
 ## Usage
@@ -22,18 +22,18 @@ import replaceNonEnglish from 'replacenonenglish';
 
 ## Then, you can use the replaceNonEnglish function to replace non-English characters in a string. For example: :point_down:
 
-* **```
+```
 const inputString = 'Привет, мир!';
 const result = replaceNonEnglish.replace(inputString);
 console.log(result); // Output: "Privet, mir!"
-```**
+```
 
 or:
 
-* **```
+```
 const testString = 'Poznań Gorzów';
 console.log(replaceNonEnglish.replace(testString)); // Output: "Poznan, Gorzow!"
-```**
+```
 
 ## Support :earth_americas: 
 Replace Non-English supports the following non-English characters:
