@@ -25,7 +25,7 @@ class ReplaceNonEnglish {
             'à': 'a', 'è': 'e', 'é': 'e',
     };
 
-    replaceNonEnglish = (str) => {
+    replace = (str) => {
         let result = '';
         for (let i = 0; i < str.length; i++) {
             const char = str[i].toLowerCase();
@@ -33,6 +33,8 @@ class ReplaceNonEnglish {
         }
         return result;
     };
-}
+};
 
-export const replaceNonEnglishInstance = new ReplaceNonEnglish();
+const replaceNonEnglish = new ReplaceNonEnglish();
+
+export default replaceNonEnglish;
