@@ -4,6 +4,7 @@
   "description": "javascript library for replace non english liters",
   "main": "replaceNonEnglish.js",
   "type": "module",
+  "types": "types/index.d.ts",
   "scripts": {
     "start": "node replaceNonEnglish.js"
   },
