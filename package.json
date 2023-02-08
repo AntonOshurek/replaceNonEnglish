@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "javascript library for replace non english liters",
   "main": "replaceNonEnglish.js",
+  "type": "module",
   "scripts": {
     "start": "node replaceNonEnglish.js"
   },
