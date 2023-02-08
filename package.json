@@ -1,6 +1,6 @@
 {
   "name": "replacenonenglish",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "javascript library for replace non english liters",
   "main": "replaceNonEnglish.js",
   "type": "module",
@@ -12,9 +12,26 @@
     "url": "git+https://github.com/AntonOshurek/replaceNonEnglish.git"
   },
   "keywords": [
-    "replace",
-    "english",
-    "leters"
+    "Replace Non-English",
+    "string conversion",
+    "non-English characters",
+    "English counterparts",
+    "names",
+    "addresses",
+    "text fields",
+    "processing",
+    "storage",
+    "installation",
+    "usage",
+    "Russian",
+    "Polish",
+    "Ukrainian",
+    "German",
+    "French",
+    "Spanish",
+    "Portuguese",
+    "Italian",
+    "license"
   ],
   "author": "Anton Oshurek",
   "license": "ISC",
