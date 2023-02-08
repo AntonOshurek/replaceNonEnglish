@@ -13,7 +13,7 @@ Replace Non-English is a JavaScript NPM library that provides a function to repl
 npm i --save-dev replacenonenglish
 ```
 
-## Usage
+## Usage :man_teacher:
 **To use Replace Non-English in your project, you can import the replaceNonEnglish function like this: :point_down:**
 
 ```
@@ -50,4 +50,4 @@ License
 
 ### Replace Non-English is released under the MIT license.
 
-### If you have any proposal for this library or any questions, send email on my adress - oshurekweb@gmail.com :)
+#### If you have any proposal for this library or any questions, send email on my :envelope_with_arrow: adress - oshurekweb@gmail.com :)
