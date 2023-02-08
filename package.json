@@ -1,0 +1,24 @@
+{
+  "name": "replacenonenglish",
+  "version": "0.0.1",
+  "description": "javascript library for replace non english liters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonOshurek/replaceNonEnglish.git"
+  },
+  "keywords": [
+    "replace",
+    "english",
+    "leters"
+  ],
+  "author": "Anton Oshurek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonOshurek/replaceNonEnglish/issues"
+  },
+  "homepage": "https://github.com/AntonOshurek/replaceNonEnglish#readme"
+}
